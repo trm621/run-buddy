@@ -56,7 +56,6 @@ header h1 {
       margin: 0;
   }
 
-
   footer div {
       float: right;
       line-height: 1.5;
@@ -70,6 +69,8 @@ header h1 {
   section {
       padding: 60px;
   }
+
+/* hero section */
 
   .hero {
       background-image: url("../images/hero-bg.jpg");
@@ -133,6 +134,8 @@ header h1 {
       margin: 0 auto;
   }
 
+/* step section */
+
   .steps {
       text-align: center;
       background: #fce138;
@@ -183,6 +186,8 @@ header h1 {
       border-color: #39a6b2;
   }
 
+/* trainer section */
+
   .trainers {
       text-align: center;
   }
@@ -230,6 +235,7 @@ header h1 {
       line-height: 1.3;
   }
 
+  /*contact information*/
 
   .contact {
       background-color: #024e76;
